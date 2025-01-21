@@ -79,6 +79,11 @@ button {
 	background-color: #4d5ae5;
 }
 
+.order-button:hover,
+.order-button:focus {
+	background-color: #404bbf;
+}
+
 /* benefits */
 
 .benefits-item-title {
